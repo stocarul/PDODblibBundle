@@ -1,0 +1,16 @@
+{
+    "name": "stocarul/pdodblib-bundle",
+    "type": "driver",
+    "description": "PHP simple driver that supports PDO DBlib",
+    "keywords": [ "PHP", "driver", "PDO", "DBlib"],
+    "license": "GPL-3.0+",
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/framework-bundle": ">=2.1",
+    },
+    "autoload": {
+        "psr-0": { "Pitech\\PDODblibBundle\\": "" }
+    },
+    "target-dir": "Pitech/Bundle/PDODblibBundle",
+    "minimum-stability": "dev"
+}
