@@ -11,6 +11,6 @@
     "autoload": {
         "psr-0": { "Pitech\\Bundle\\PDODblibBundle\\": "" }
     },
-    "target-dir": "stocarul/pdodblib-bundle/Pitech/Bundle/PDODblibBundle",
+    "target-dir": "Pitech/Bundle/PDODblibBundle",
     "minimum-stability": "dev"
 }
