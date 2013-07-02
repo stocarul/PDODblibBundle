@@ -9,7 +9,7 @@
         "symfony/framework-bundle": ">=2.1"
     },
     "autoload": {
-        "psr-0": { "Pitech\\PDODblibBundle\\": "" }
+        "psr-0": { "Pitech\\Bundle\\PDODblibBundle\\": "" }
     },
     "target-dir": "stocarul/pdodblib-bundle/Pitech/Bundle/PDODblibBundle",
     "minimum-stability": "dev"
